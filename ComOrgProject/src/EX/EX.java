@@ -15,7 +15,7 @@ class ex
 	   this.ALUSrc=ALUSrc;
 	   this.ALUop=ALUop;
 	   this.RegDst=RegDst;
-	   this.funct=funct;
+	   this.funct=funct;  // i am handsome
    }
    
    int getALU() {
